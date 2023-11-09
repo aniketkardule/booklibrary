@@ -15,5 +15,5 @@ Setup Project on local:
 step 1: Download zip from github repo.
 step 2: Extract zip in folder
 step 3: Node.js should be installed on local machine
-step 4: !important add new .env file in project and add two variables in .env file PORT=8000 and URI=yourDatabaseUri
-step 5: important your mongodb database
+step 4: (!important) add new .env file in project and add two variables in .env file PORT=8000 and URI=yourDatabaseUri (It would be easier if i share my uri but this is not good practice)
+step 5: (!important) your mongodb database should have books collection
