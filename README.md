@@ -41,4 +41,4 @@ PATCH | https://booklibrary-gxxy.onrender.com/api/book | Update book, request bo
 DELETE | https://booklibrary-gxxy.onrender.com/api/book?id={id} | Delete book, Replace "id" with book id to delete a specific book.        
 
 
-note: deployed application might go in sleep mode if not used for a while, please wait for few munites to wake up service after hitting endpoint.
+note: deployed application might go in sleep mode if not used for a while, please wait for few minutes to wake up service after hitting endpoint.
