@@ -19,7 +19,7 @@ Setup Project on local:
          step 5: (!important) your mongodb database should have books collection.    
             step 6: run npm install in project folder in terminal to install all dependencies listed in package.json.     
                step 7: give command node index.js in terminal and your server will start.    
-                   step 8: test all endpoints listed in above table in postman
+                   step 8: test all endpoints listed in above table in postman.                                 
 
 
 
