@@ -38,4 +38,7 @@ GET | https://booklibrary-gxxy.onrender.com/api/ | Get all books
 POST | https://booklibrary-gxxy.onrender.com/api/book | Add new book, request body should be like {"title":"harry potter","author":"author name","summery":"book summery"}
 GET | https://booklibrary-gxxy.onrender.com/api/book?id={id} | Get one book, Replace "id" with book id to get a specific book
 PATCH | https://booklibrary-gxxy.onrender.com/api/book | Update book, request body should have _id of book to find book for updation along with updated keys i.e. {"_id":"1252784fjv584h2","title":"harry potter","author":"new author name","summery":"new book summery"}
-DELETE | https://booklibrary-gxxy.onrender.com/api/book?id={id} | Delete book, Replace "id" with book id to delete a specific book
+DELETE | https://booklibrary-gxxy.onrender.com/api/book?id={id} | Delete book, Replace "id" with book id to delete a specific book.        
+
+
+note: deployed application might go in sleep mode if not used for a while, please wait for few munites to wake up service after hitting endpoint.
